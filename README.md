@@ -1,3 +1,6 @@
+test change
+
+
 # DOOR (Do Our Own Research) - SQL Models
 
 This repository contains [DBT](https://docs.getdbt.com/docs/introduction) SQL Models that glue together and transform low-level tables into analytics ready data sets. The tables that are output from this DBT project are available to Flipside users [here in Velocity](https://app.flipsidecrypto.com/auth/signup/velocity)
